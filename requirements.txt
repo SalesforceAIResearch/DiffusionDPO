@@ -1,0 +1,12 @@
+accelerate==0.20.2
+diffusers==0.20.0
+torchvision
+transformers==4.30.2
+datasets
+ftfy
+tensorboard
+Jinja2
+bitsandbytes
+xformers==0.0.22
+hpsv2
+openai_clip==1.0.1
