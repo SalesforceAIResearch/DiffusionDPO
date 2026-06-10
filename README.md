@@ -102,7 +102,7 @@ accelerate launch --mixed_precision="fp16"  train.py \
       eprint={2311.12908},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
-
+}
 ```
 
 # Ethical Considerations
